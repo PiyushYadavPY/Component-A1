@@ -1,0 +1,1636 @@
+thread-index: Add8dK0DcICdn6QjQ4yapOA4GzBRiw==
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0001_01D77CA2.C6E76A80"
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0002_01D77CA2.C6F462D0"
+
+
+------=_NextPart_001_0002_01D77CA2.C6F462D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Mechanical_Report_Files/Logo.png=20
+
+
+Project*
+
+First Saved	Monday, July 19, 2021=09
+Last Saved	Monday, July 19, 2021=09
+Product Version	2021 R1=09
+Save Project Before Solution	No=09
+Save Project After Solution	No=09
+
+Mechanical_Report_Files/Figure0001.png
+
+
+Contents
+
+
+*	Units
+
+*	Model (A4)
+
+	*	Geometry
+
+		*	Solid
+
+	*	Materials
+	*	Coordinate Systems
+	*	Mesh
+	*	Static Structural (A5)
+
+		*	Analysis Settings
+		*	Loads
+		*	Solution (A6)
+
+			*	Solution Information
+			*	Results
+
+*	Material Data
+
+	*	Structural Steel
+
+
+Units
+
+
+TABLE 1
+
+Unit System	Metric (mm, kg, N, s, mV, mA) Degrees rad/s Celsius=09
+Angle	Degrees=09
+Rotational Velocity	rad/s=09
+Temperature	Celsius=09
+
+Model (A4)
+
+
+Geometry
+
+
+TABLE 2
+Model (A4) > Geometry
+
+Object Name	Geometry=09
+State	Fully Defined=09
+Definition=09
+Source
+C:\Users\India\AppData\Local\Temp\WB_India_9028_2\wbnew_files\dp0\SYS\DM
+\SYS.agdb=09
+Type	DesignModeler=09
+Length Unit	Meters=09
+Element Control	Program Controlled=09
+Display Style	Body Color=09
+Bounding Box=09
+Length X	100. mm=09
+Length Y	84. mm=09
+Length Z	160. mm=09
+Properties=09
+Volume	4.8242e+005 mm=B3=09
+Mass	3.787 kg=09
+Scale Factor Value	1.=09
+Statistics=09
+Bodies	1=09
+Active Bodies	1=09
+Nodes	14440=09
+Elements	7920=09
+Mesh Metric	None=09
+Update Options=09
+Assign Default Material	No=09
+Basic Geometry Options=09
+Parameters	Independent=09
+Parameter Key	=09
+Attributes	Yes=09
+Attribute Key	=09
+Named Selections	Yes=09
+Named Selection Key	=09
+Material Properties	Yes=09
+Advanced Geometry Options=09
+Use Associativity	Yes=09
+Coordinate Systems	Yes=09
+Coordinate System Key	=09
+Reader Mode Saves Updated File	No=09
+Use Instances	Yes=09
+Smart CAD Update	Yes=09
+Compare Parts On Update	No=09
+Analysis Type	3-D=09
+Import Facet Quality	Source=09
+Clean Bodies On Import	No=09
+Stitch Surfaces On Import	None=09
+Decompose Disjoint Geometry	Yes=09
+Enclosure and Symmetry Processing	Yes=09
+
+TABLE 3
+Model (A4) > Geometry > Parts
+
+Object Name	Solid=09
+State	Meshed=09
+Graphics Properties=09
+Visible	Yes=09
+Transparency	1=09
+Definition=09
+Suppressed	No=09
+Stiffness Behavior	Flexible=09
+Coordinate System	Default Coordinate System=09
+Reference Temperature	By Environment=09
+Treatment	None=09
+Material=09
+Assignment	Structural Steel=09
+Nonlinear Effects	Yes=09
+Thermal Strain Effects	Yes=09
+Bounding Box=09
+Length X	100. mm=09
+Length Y	84. mm=09
+Length Z	160. mm=09
+Properties=09
+Volume	4.8242e+005 mm=B3=09
+Mass	3.787 kg=09
+Centroid X	9.0955e-005 mm=09
+Centroid Y	17.538 mm=09
+Centroid Z	61.041 mm=09
+Moment of Inertia Ip1	9243.1 kg=B7mm=B2=09
+Moment of Inertia Ip2	10219 kg=B7mm=B2=09
+Moment of Inertia Ip3	3814. kg=B7mm=B2=09
+Statistics=09
+Nodes	14440=09
+Elements	7920=09
+Mesh Metric	None=09
+
+TABLE 4
+Model (A4) > Materials
+
+Object Name	Materials=09
+State	Fully Defined=09
+Statistics=09
+Materials	1=09
+Material Assignments	0=09
+
+Coordinate Systems
+
+
+TABLE 5
+Model (A4) > Coordinate Systems > Coordinate System
+
+Object Name	Global Coordinate System=09
+State	Fully Defined=09
+Definition=09
+Type	Cartesian=09
+Coordinate System ID	0. =09
+Origin=09
+Origin X	0. mm=09
+Origin Y	0. mm=09
+Origin Z	0. mm=09
+Directional Vectors=09
+X Axis Data	[ 1. 0. 0. ]=09
+Y Axis Data	[ 0. 1. 0. ]=09
+Z Axis Data	[ 0. 0. 1. ]=09
+
+Mesh
+
+
+TABLE 6
+Model (A4) > Mesh
+
+Object Name	Mesh=09
+State	Solved=09
+Display=09
+Display Style	Use Geometry Setting=09
+Defaults=09
+Physics Preference	Mechanical=09
+Element Order	Program Controlled=09
+Element Size	4.0 mm=09
+Sizing=09
+Use Adaptive Sizing	Yes=09
+Resolution	Default (2)=09
+Mesh Defeaturing	Yes=09
+Defeature Size	Default=09
+Transition	Fast=09
+Span Angle Center	Coarse=09
+Initial Size Seed	Assembly=09
+Bounding Box Diagonal	206.53 mm=09
+Average Surface Area	3034.4 mm=B2=09
+Minimum Edge Length	9.1331 mm=09
+Quality=09
+Check Mesh Quality	Yes, Errors=09
+Error Limits	Aggressive Mechanical=09
+Target Quality	Default (0.050000)=09
+Smoothing	Medium=09
+Mesh Metric	None=09
+Inflation=09
+Use Automatic Inflation	None=09
+Inflation Option	Smooth Transition=09
+Transition Ratio	0.272=09
+Maximum Layers	5=09
+Growth Rate	1.2=09
+Inflation Algorithm	Pre=09
+View Advanced Options	No=09
+Advanced=09
+Number of CPUs for Parallel Part Meshing	Program Controlled=09
+Straight Sided Elements	No=09
+Rigid Body Behavior	Dimensionally Reduced=09
+Triangle Surface Mesher	Program Controlled=09
+Topology Checking	Yes=09
+Pinch Tolerance	Please Define=09
+Generate Pinch on Refresh	No=09
+Statistics=09
+Nodes	14440=09
+Elements	7920=09
+
+Static Structural (A5)
+
+
+TABLE 7
+Model (A4) > Analysis
+
+Object Name	Static Structural (A5)=09
+State	Solved=09
+Definition=09
+Physics Type	Structural=09
+Analysis Type	Static Structural=09
+Solver Target	Mechanical APDL=09
+Options=09
+Environment Temperature	22. =B0C=09
+Generate Input Only	No=09
+
+TABLE 8
+Model (A4) > Static Structural (A5) > Analysis Settings
+
+Object Name	Analysis Settings=09
+State	Fully Defined=09
+Step Controls=09
+Number Of Steps	1.=09
+Current Step Number	1.=09
+Step End Time	1. s=09
+Auto Time Stepping	Program Controlled=09
+Solver Controls=09
+Solver Type	Program Controlled=09
+Weak Springs	Off=09
+Solver Pivot Checking	Program Controlled=09
+Large Deflection	Off=09
+Inertia Relief	Off=09
+Quasi-Static Solution	Off=09
+Rotordynamics Controls=09
+Coriolis Effect	Off=09
+Restart Controls=09
+Generate Restart Points	Program Controlled=09
+Retain Files After Full Solve	No=09
+Combine Restart Files	Program Controlled=09
+Nonlinear Controls=09
+Newton-Raphson Option	Program Controlled=09
+Force Convergence	Program Controlled=09
+Moment Convergence	Program Controlled=09
+Displacement Convergence	Program Controlled=09
+Rotation Convergence	Program Controlled=09
+Line Search	Program Controlled=09
+Stabilization	Program Controlled=09
+Advanced=09
+Inverse Option	No=09
+Contact Split (DMP)	Off=09
+Output Controls=09
+Stress	Yes=09
+Surface Stress	No=09
+Back Stress	No=09
+Strain	Yes=09
+Contact Data	Yes=09
+Nonlinear Data	No=09
+Nodal Forces	No=09
+Volume and Energy	Yes=09
+Euler Angles	Yes=09
+General Miscellaneous	No=09
+Contact Miscellaneous	No=09
+Store Results At	All Time Points=09
+Result File Compression	Program Controlled=09
+Analysis Data Management=09
+Solver Files Directory
+C:\Users\India\AppData\Local\Temp\WB_India_9028_2\wbnew_files\dp0\SYS\ME
+CH\=09
+Future Analysis	None=09
+Scratch Solver Files Directory	=09
+Save MAPDL db	No=09
+Contact Summary	Program Controlled=09
+Delete Unneeded Files	Yes=09
+Nonlinear Solution	No=09
+Solver Units	Active System=09
+Solver Unit System	nmm=09
+
+TABLE 9
+Model (A4) > Static Structural (A5) > Loads
+
+Object Name	Force	Fixed Support	Fixed Support 2=09
+State	Fully Defined=09
+Scope=09
+Scoping Method	Geometry Selection=09
+Geometry	1 Face=09
+Definition=09
+Type	Force	Fixed Support=09
+Define By	Vector	 =09
+Applied By	Surface Effect	 =09
+Magnitude	5000. N (ramped)	 =09
+Direction	Defined	 =09
+Suppressed	No=09
+
+FIGURE 1
+Model (A4) > Static Structural (A5) > Force
+
+Mechanical_Report_Files/Figure0002.png
+
+
+Solution (A6)
+
+
+TABLE 10
+Model (A4) > Static Structural (A5) > Solution
+
+Object Name	Solution (A6)=09
+State	Solved=09
+Adaptive Mesh Refinement=09
+Max Refinement Loops	1.=09
+Refinement Depth	2.=09
+Information=09
+Status	Done=09
+MAPDL Elapsed Time	6. s=09
+MAPDL Memory Used	130. MB=09
+MAPDL Result File Size	5.25 MB=09
+Post Processing=09
+Beam Section Results	No=09
+On Demand Stress/Strain	No=09
+
+TABLE 11
+Model (A4) > Static Structural (A5) > Solution (A6) > Solution
+Information
+
+Object Name	Solution Information=09
+State	Solved=09
+Solution Information=09
+Solution Output	Solver Output=09
+Newton-Raphson Residuals	0=09
+Identify Element Violations	0=09
+Update Interval	2.5 s=09
+Display Points	All=09
+FE Connection Visibility=09
+Activate Visibility	Yes=09
+Display	All FE Connectors=09
+Draw Connections Attached To	All Nodes=09
+Line Color	Connection Type=09
+Visible on Results	No=09
+Line Thickness	Single=09
+Display Type	Lines=09
+
+TABLE 12
+Model (A4) > Static Structural (A5) > Solution (A6) > Results
+
+Object Name	Total Deformation	Equivalent Elastic Strain
+Equivalent Stress	Strain Energy=09
+State	Solved=09
+Scope=09
+Scoping Method	Geometry Selection=09
+Geometry	All Bodies=09
+Definition=09
+Type	Total Deformation	Equivalent Elastic Strain
+Equivalent (von-Mises) Stress	Strain Energy=09
+By	Time=09
+Display Time	Last=09
+Calculate Time History	Yes=09
+Identifier	=09
+Suppressed	No=09
+Results=09
+Minimum	0. mm	2.2748e-007 mm/mm	1.0917e-002 MPa	2.5676e-007 mJ=09
+Maximum	2.6855e-003 mm	7.5645e-005 mm/mm	13.236 MPa
+9.8049e-003 mJ=09
+Average	1.03e-003 mm	9.5958e-006 mm/mm	1.77 MPa	 =09
+Minimum Occurs On	Solid=09
+Maximum Occurs On	Solid=09
+Total	 	4.5379 mJ=09
+Information=09
+Time	1. s=09
+Load Step	1=09
+Substep	1=09
+Iteration Number	1=09
+Integration Point Results=09
+Display Option	 	Averaged	 =09
+Average Across Bodies	 	No	 =09
+
+FIGURE 2
+Model (A4) > Static Structural (A5) > Solution (A6) > Total Deformation
+
+Mechanical_Report_Files/Figure0003.png
+
+TABLE 13
+Model (A4) > Static Structural (A5) > Solution (A6) > Total Deformation
+
+Time [s]	Minimum [mm]	Maximum [mm]	Average [mm]=09
+1.	0.	2.6855e-003	1.03e-003=09
+
+FIGURE 3
+Model (A4) > Static Structural (A5) > Solution (A6) > Equivalent
+Elastic Strain
+
+Mechanical_Report_Files/Figure0004.png
+
+TABLE 14
+Model (A4) > Static Structural (A5) > Solution (A6) > Equivalent
+Elastic Strain
+
+Time [s]	Minimum [mm/mm]	Maximum [mm/mm]	Average [mm/mm]=09
+1.	2.2748e-007	7.5645e-005	9.5958e-006=09
+
+FIGURE 4
+Model (A4) > Static Structural (A5) > Solution (A6) > Equivalent Stress
+
+Mechanical_Report_Files/Figure0005.png
+
+TABLE 15
+Model (A4) > Static Structural (A5) > Solution (A6) > Equivalent Stress
+
+Time [s]	Minimum [MPa]	Maximum [MPa]	Average [MPa]=09
+1.	1.0917e-002	13.236	1.77=09
+
+FIGURE 5
+Model (A4) > Static Structural (A5) > Solution (A6) > Strain Energy
+
+Mechanical_Report_Files/Figure0006.png
+
+TABLE 16
+Model (A4) > Static Structural (A5) > Solution (A6) > Strain Energy
+
+Time [s]	Minimum [mJ]	Maximum [mJ]	Total [mJ]=09
+1.	2.5676e-007	9.8049e-003	4.5379=09
+
+Material Data=20
+
+
+Structural Steel
+
+
+TABLE 17
+Structural Steel > Constants
+
+
+Density	7.85e-006 kg mm^-3=09
+Coefficient of Thermal Expansion	1.2e-005 C^-1=09
+Specific Heat	4.34e+005 mJ kg^-1 C^-1=09
+Thermal Conductivity	6.05e-002 W mm^-1 C^-1=09
+Resistivity	1.7e-004 ohm mm=09
+
+TABLE 18
+Structural Steel > Color
+
+
+Red 	Green 	Blue =09
+132	139	179=09
+
+TABLE 19
+Structural Steel > Compressive Ultimate Strength
+
+
+Compressive Ultimate Strength MPa=09
+0=09
+
+TABLE 20
+Structural Steel > Compressive Yield Strength
+
+
+Compressive Yield Strength MPa=09
+250=09
+
+TABLE 21
+Structural Steel > Tensile Yield Strength
+
+
+Tensile Yield Strength MPa=09
+250=09
+
+TABLE 22
+Structural Steel > Tensile Ultimate Strength
+
+
+Tensile Ultimate Strength MPa=09
+460=09
+
+TABLE 23
+Structural Steel > Isotropic Secant Coefficient of Thermal Expansion
+
+
+Zero-Thermal-Strain Reference Temperature C=09
+22=09
+
+TABLE 24
+Structural Steel > S-N Curve
+
+
+Alternating Stress MPa	Cycles 	Mean Stress MPa=09
+3999	10	0=09
+2827	20	0=09
+1896	50	0=09
+1413	100	0=09
+1069	200	0=09
+441	2000	0=09
+262	10000	0=09
+214	20000	0=09
+138	1.e+005	0=09
+114	2.e+005	0=09
+86.2	1.e+006	0=09
+
+TABLE 25
+Structural Steel > Strain-Life Parameters
+
+
+Strength Coefficient MPa	Strength Exponent 	Ductility
+Coefficient 	Ductility Exponent 	Cyclic Strength Coefficient MPa
+Cyclic Strain Hardening Exponent =09
+920	-0.106	0.213	-0.47	1000	0.2=09
+
+TABLE 26
+Structural Steel > Isotropic Elasticity
+
+
+Young's Modulus MPa	Poisson's Ratio 	Bulk Modulus MPa
+Shear Modulus MPa	Temperature C=09
+2.e+005	0.3	1.6667e+005	76923	=09
+
+TABLE 27
+Structural Steel > Isotropic Relative Permeability
+
+
+Relative Permeability =09
+10000=09
+
+------=_NextPart_001_0002_01D77CA2.C6F462D0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html>
+	<head>
+		<title>Project*</title>
+		<style type="text/css">
+
+        h1, h2, h3, h4
+        {
+          font-family:Arial;
+          color:#3B577D;
+        }
+        h1
+        {
+          text-align:center;
+        }
+        h3
+        {
+          font-style:italic;
+        }
+        th, td, .Caption, .Figure, .Link, .BoldLink, .Normal
+        {
+          font-family:Arial;
+          font-size:smaller;
+        }
+        th, td
+        {
+          padding:0.5pt 2.5pt 0.5pt 2.5pt;
+        }
+        pre, .Comment
+        {
+          border:1pt solid;
+          padding:2.5pt;
+          margin-top:0pt;
+        }
+        img
+        {
+          border:1pt solid;
+        }
+        .Caption
+        {
+          font-weight:bold;
+          text-align:center;
+          margin-bottom:0pt;
+        }
+        .Figure
+        {
+          margin-top:0pt;
+          text-align:center;
+        }
+        table
+        {
+          border-collapse:collapse;
+          border-style:solid;
+        }
+        .TitleBlock
+        {
+          border:none;
+        }
+        .Details, .Details th, .Details td, pre, img, .Comment
+        {
+          border-color:#7A99C0; /* dark blue */
+        }
+        .GroupName
+        {
+          background-color:#A5BAD5; /* medium blue */
+        }
+        .ItemName, .ItemNameColumn
+        {
+          background-color:#D1DCEA; /* light blue */
+          font-weight:normal;
+        }
+        .ItemName
+        {
+          text-align:right;
+        }
+        .Comment
+        {
+          font-family:'Times New Roman', Times;
+          font-size:12pt;
+        }
+        .Logo
+        {
+          border:none;
+        }
+        .BoldLink
+        {
+          font-weight:bold;
+        }
+        A:link, A:visited
+        {
+          color:#3B577D;
+        }
+        .Highlight
+        {
+          background-color:#FFFF7F;
+        }
+        .Centered, td
+        {
+          text-align:center;
+        }
+        #Contents
+        {
+          page-break-before:always;
+        }
+        .ObjectName
+        {
+          font-style:italic;
+        }
+
+      </style>
+	</head>
+	<body>
+		<div id="CoverPage">
+			<p class="Centered">
+				<img class="Logo" src="Mechanical_Report_Files/Logo.png" alt="Mechanical_Report_Files/Logo.png"/>
+			</p>
+			<h1><a name="4">Project*</a></h1>
+			<table class="Details" align="center" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">First Saved</th><td>Monday, July 19, 2021</td></tr><tr><th class="ItemName">Last Saved</th><td>Monday, July 19, 2021</td></tr><tr><th class="ItemName">Product Version</th><td>2021 R1</td></tr><tr><th class="ItemName">Save Project Before Solution</th><td>No</td></tr><tr><th class="ItemName">Save Project After Solution</th><td>No</td></tr></table>
+			<p class="Centered"><img src="Mechanical_Report_Files/Figure0001.png" alt="Mechanical_Report_Files/Figure0001.png" width="600" height="500"/></p></div>
+		<div id="Contents">
+			<h2>Contents</h2>
+		</div>
+		<div id="TableOfContents">
+			<ul><li><a href="#UNITS" class="BoldLink">Units</a></li></ul><ul><li><a href="#11" class="BoldLink">Model (A4)</a><ul><li><a href="#12" class="Link">Geometry</a><ul><li><a href="#18" class="Link">Solid</a></li></ul></li><li><a href="#15" class="Link">Materials</a></li><li><a href="#20" class="Link">Coordinate Systems</a></li><li><a href="#13" class="Link">Mesh</a></li><li><a href="#22" class="BoldLink">Static Structural (A5)</a><ul><li><a href="#25" class="Link">Analysis Settings</a></li><li><a href="#26" class="Link">Loads</a></li><li><a href="#23" class="Link">Solution (A6)</a><ul><li><a href="#24" class="Link">Solution Information</a></li><li><a href="#28" class="Link">Results</a></li></ul></li></ul></li></ul></li></ul><ul><li><a href="#Materials" class="BoldLink">Material Data</a><ul><li><a href="#EngineeringData1" class="Link">Structural Steel</a></li></ul></li></ul></div>
+		<div id="Body">
+			<div id="Units">
+				<h2><a name="UNITS">Units</a></h2>
+				<p class="Caption">TABLE 1</p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Unit System</th><td>Metric (mm, kg, N, s, mV, mA)    Degrees    rad/s    Celsius</td></tr><tr><th class="ItemName">Angle</th><td>Degrees</td></tr><tr><th class="ItemName">Rotational Velocity</th><td>rad/s</td></tr><tr><th class="ItemName">Temperature</th><td>Celsius</td></tr></table></div>
+			<h2><a name="11">Model (A4)</a></h2><h3><a name="12">Geometry</a></h3><p class="Caption"><a name="12">TABLE 2<br/>Model (A4) &gt; Geometry</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="12" class="ObjectName">Geometry</a></td></tr><tr><th class="ItemName">State</th><td>Fully Defined</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Definition</th></tr><tr><th class="ItemName">Source</th><td>C:\Users\India\AppData\Local\Temp\WB_India_9028_2\wbnew_files\dp0\SYS\DM\SYS.agdb</td></tr><tr><th class="ItemName">Type</th><td>DesignModeler</td></tr><tr><th class="ItemName">Length Unit</th><td>Meters</td></tr><tr><th class="ItemName">Element Control</th><td>Program Controlled</td></tr><tr><th class="ItemName">Display Style</th><td>Body Color</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Bounding Box</th></tr><tr><th class="ItemName">Length X</th><td>100. mm</td></tr><tr><th class="ItemName">Length Y</th><td>84. mm</td></tr><tr><th class="ItemName">Length Z</th><td>160. mm</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Properties</th></tr><tr><th class="ItemName">Volume</th><td>4.8242e+005 mm³</td></tr><tr><th class="ItemName">Mass</th><td>3.787 kg</td></tr><tr><th class="ItemName">Scale Factor Value</th><td>1.</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Statistics</th></tr><tr><th class="ItemName">Bodies</th><td>1</td></tr><tr><th class="ItemName">Active Bodies</th><td>1</td></tr><tr><th class="ItemName">Nodes</th><td>14440</td></tr><tr><th class="ItemName">Elements</th><td>7920</td></tr><tr><th class="ItemName">Mesh Metric</th><td>None</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Update Options</th></tr><tr><th class="ItemName">Assign Default Material</th><td>No</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Basic Geometry Options</th></tr><tr><th class="ItemName">Parameters</th><td>Independent</td></tr><tr><th class="ItemName">Parameter Key</th><td></td></tr><tr><th class="ItemName">Attributes</th><td>Yes</td></tr><tr><th class="ItemName">Attribute Key</th><td></td></tr><tr><th class="ItemName">Named Selections</th><td>Yes</td></tr><tr><th class="ItemName">Named Selection Key</th><td></td></tr><tr><th class="ItemName">Material Properties</th><td>Yes</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Advanced Geometry Options</th></tr><tr><th class="ItemName">Use Associativity</th><td>Yes</td></tr><tr><th class="ItemName">Coordinate Systems</th><td>Yes</td></tr><tr><th class="ItemName">Coordinate System Key</th><td></td></tr><tr><th class="ItemName">Reader Mode Saves Updated File</th><td>No</td></tr><tr><th class="ItemName">Use Instances</th><td>Yes</td></tr><tr><th class="ItemName">Smart CAD Update</th><td>Yes</td></tr><tr><th class="ItemName">Compare Parts On Update</th><td>No</td></tr><tr><th class="ItemName">Analysis Type</th><td>3-D</td></tr><tr><th class="ItemName">Import Facet Quality</th><td>Source</td></tr><tr><th class="ItemName">Clean Bodies On Import</th><td>No</td></tr><tr><th class="ItemName">Stitch Surfaces On Import</th><td>None</td></tr><tr><th class="ItemName">Decompose Disjoint Geometry</th><td>Yes</td></tr><tr><th class="ItemName">Enclosure and Symmetry Processing</th><td>Yes</td></tr></tbody></table><p class="Caption"><a name="18">TABLE 3<br/>Model (A4) &gt; Geometry &gt; Parts</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="18" class="ObjectName">Solid</a></td></tr><tr><th class="ItemName">State</th><td>Meshed</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Graphics Properties</th></tr><tr><th class="ItemName">Visible</th><td>Yes</td></tr><tr><th class="ItemName">Transparency</th><td>1</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Definition</th></tr><tr><th class="ItemName">Suppressed</th><td>No</td></tr><tr><th class="ItemName">Stiffness Behavior</th><td>Flexible</td></tr><tr><th class="ItemName">Coordinate System</th><td>Default Coordinate System</td></tr><tr><th class="ItemName">Reference Temperature</th><td>By Environment</td></tr><tr><th class="ItemName">Treatment</th><td>None</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Material</th></tr><tr><th class="ItemName">Assignment</th><td>Structural Steel</td></tr><tr><th class="ItemName">Nonlinear Effects</th><td>Yes</td></tr><tr><th class="ItemName">Thermal Strain Effects</th><td>Yes</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Bounding Box</th></tr><tr><th class="ItemName">Length X</th><td>100. mm</td></tr><tr><th class="ItemName">Length Y</th><td>84. mm</td></tr><tr><th class="ItemName">Length Z</th><td>160. mm</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Properties</th></tr><tr><th class="ItemName">Volume</th><td>4.8242e+005 mm³</td></tr><tr><th class="ItemName">Mass</th><td>3.787 kg</td></tr><tr><th class="ItemName">Centroid X</th><td>9.0955e-005 mm</td></tr><tr><th class="ItemName">Centroid Y</th><td>17.538 mm</td></tr><tr><th class="ItemName">Centroid Z</th><td>61.041 mm</td></tr><tr><th class="ItemName">Moment of Inertia Ip1</th><td>9243.1 kg·mm²</td></tr><tr><th class="ItemName">Moment of Inertia Ip2</th><td>10219 kg·mm²</td></tr><tr><th class="ItemName">Moment of Inertia Ip3</th><td>3814. kg·mm²</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Statistics</th></tr><tr><th class="ItemName">Nodes</th><td>14440</td></tr><tr><th class="ItemName">Elements</th><td>7920</td></tr><tr><th class="ItemName">Mesh Metric</th><td>None</td></tr></tbody></table><p class="Caption"><a name="15">TABLE 4<br/>Model (A4) &gt; Materials</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="15" class="ObjectName">Materials</a></td></tr><tr><th class="ItemName">State</th><td>Fully Defined</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Statistics</th></tr><tr><th class="ItemName">Materials</th><td>1</td></tr><tr><th class="ItemName">Material Assignments</th><td>0</td></tr></tbody></table><h3><a name="20">Coordinate Systems</a></h3><p class="Caption"><a name="21">TABLE 5<br/>Model (A4) &gt; Coordinate Systems &gt; Coordinate System</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="21" class="ObjectName">Global Coordinate System</a></td></tr><tr><th class="ItemName">State</th><td>Fully Defined</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Definition</th></tr><tr><th class="ItemName">Type</th><td>Cartesian</td></tr><tr><th class="ItemName">Coordinate System ID</th><td>0.  </td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Origin</th></tr><tr><th class="ItemName">Origin X</th><td>0. mm</td></tr><tr><th class="ItemName">Origin Y</th><td>0. mm</td></tr><tr><th class="ItemName">Origin Z</th><td>0. mm</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Directional Vectors</th></tr><tr><th class="ItemName">X Axis Data</th><td>[  1.  0.  0.  ]</td></tr><tr><th class="ItemName">Y Axis Data</th><td>[  0.  1.  0.  ]</td></tr><tr><th class="ItemName">Z Axis Data</th><td>[  0.  0.  1.  ]</td></tr></tbody></table><h3><a name="13">Mesh</a></h3><p class="Caption"><a name="13">TABLE 6<br/>Model (A4) &gt; Mesh</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="13" class="ObjectName">Mesh</a></td></tr><tr><th class="ItemName">State</th><td>Solved</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Display</th></tr><tr><th class="ItemName">Display Style</th><td>Use Geometry Setting</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Defaults</th></tr><tr><th class="ItemName">Physics Preference</th><td>Mechanical</td></tr><tr><th class="ItemName">Element Order</th><td>Program Controlled</td></tr><tr><th class="ItemName">Element Size</th><td>4.0 mm</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Sizing</th></tr><tr><th class="ItemName">Use Adaptive Sizing</th><td>Yes</td></tr><tr><th class="ItemName">Resolution</th><td>Default (2)</td></tr><tr><th class="ItemName">Mesh Defeaturing</th><td>Yes</td></tr><tr><th class="ItemName">Defeature Size</th><td>Default</td></tr><tr><th class="ItemName">Transition</th><td>Fast</td></tr><tr><th class="ItemName">Span Angle Center</th><td>Coarse</td></tr><tr><th class="ItemName">Initial Size Seed</th><td>Assembly</td></tr><tr><th class="ItemName">Bounding Box Diagonal</th><td>206.53 mm</td></tr><tr><th class="ItemName">Average Surface Area</th><td>3034.4 mm²</td></tr><tr><th class="ItemName">Minimum Edge Length</th><td>9.1331 mm</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Quality</th></tr><tr><th class="ItemName">Check Mesh Quality</th><td>Yes, Errors</td></tr><tr><th class="ItemName">Error Limits</th><td>Aggressive Mechanical</td></tr><tr><th class="ItemName">Target Quality</th><td>Default (0.050000)</td></tr><tr><th class="ItemName">Smoothing</th><td>Medium</td></tr><tr><th class="ItemName">Mesh Metric</th><td>None</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Inflation</th></tr><tr><th class="ItemName">Use Automatic Inflation</th><td>None</td></tr><tr><th class="ItemName">Inflation Option</th><td>Smooth Transition</td></tr><tr><th class="ItemName">Transition Ratio</th><td>0.272</td></tr><tr><th class="ItemName">Maximum Layers</th><td>5</td></tr><tr><th class="ItemName">Growth Rate</th><td>1.2</td></tr><tr><th class="ItemName">Inflation Algorithm</th><td>Pre</td></tr><tr><th class="ItemName">View Advanced Options</th><td>No</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Advanced</th></tr><tr><th class="ItemName">Number of CPUs for Parallel Part Meshing</th><td>Program Controlled</td></tr><tr><th class="ItemName">Straight Sided Elements</th><td>No</td></tr><tr><th class="ItemName">Rigid Body Behavior</th><td>Dimensionally Reduced</td></tr><tr><th class="ItemName">Triangle Surface Mesher</th><td>Program Controlled</td></tr><tr><th class="ItemName">Topology Checking</th><td>Yes</td></tr><tr><th class="ItemName">Pinch Tolerance</th><td>Please Define</td></tr><tr><th class="ItemName">Generate Pinch on Refresh</th><td>No</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Statistics</th></tr><tr><th class="ItemName">Nodes</th><td>14440</td></tr><tr><th class="ItemName">Elements</th><td>7920</td></tr></tbody></table><h2><a name="22">Static Structural (A5)</a></h2><p class="Caption"><a name="22">TABLE 7<br/>Model (A4) &gt; Analysis</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="22" class="ObjectName">Static Structural (A5)</a></td></tr><tr><th class="ItemName">State</th><td>Solved</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Definition</th></tr><tr><th class="ItemName">Physics Type</th><td>Structural</td></tr><tr><th class="ItemName">Analysis Type</th><td>Static Structural</td></tr><tr><th class="ItemName">Solver Target</th><td>Mechanical APDL</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Options</th></tr><tr><th class="ItemName">Environment Temperature</th><td>22. °C</td></tr><tr><th class="ItemName">Generate Input Only</th><td>No</td></tr></tbody></table><p class="Caption"><a name="25">TABLE 8<br/>Model (A4) &gt; Static Structural (A5) &gt; Analysis Settings</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="25" class="ObjectName">Analysis Settings</a></td></tr><tr><th class="ItemName">State</th><td>Fully Defined</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Step Controls</th></tr><tr><th class="ItemName">Number Of Steps</th><td>1.</td></tr><tr><th class="ItemName">Current Step Number</th><td>1.</td></tr><tr><th class="ItemName">Step End Time</th><td>1. s</td></tr><tr><th class="ItemName">Auto Time Stepping</th><td>Program Controlled</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Solver Controls</th></tr><tr><th class="ItemName">Solver Type</th><td>Program Controlled</td></tr><tr><th class="ItemName">Weak Springs</th><td>Off</td></tr><tr><th class="ItemName">Solver Pivot Checking</th><td>Program Controlled</td></tr><tr><th class="ItemName">Large Deflection</th><td>Off</td></tr><tr><th class="ItemName">Inertia Relief</th><td>Off</td></tr><tr><th class="ItemName">Quasi-Static Solution</th><td>Off</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Rotordynamics Controls</th></tr><tr><th class="ItemName">Coriolis Effect</th><td>Off</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Restart Controls</th></tr><tr><th class="ItemName">Generate Restart Points</th><td>Program Controlled</td></tr><tr><th class="ItemName">Retain Files After Full Solve</th><td>No</td></tr><tr><th class="ItemName">Combine Restart Files</th><td>Program Controlled</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Nonlinear Controls</th></tr><tr><th class="ItemName">Newton-Raphson Option</th><td>Program Controlled</td></tr><tr><th class="ItemName">Force Convergence</th><td>Program Controlled</td></tr><tr><th class="ItemName">Moment Convergence</th><td>Program Controlled</td></tr><tr><th class="ItemName">Displacement Convergence</th><td>Program Controlled</td></tr><tr><th class="ItemName">Rotation Convergence</th><td>Program Controlled</td></tr><tr><th class="ItemName">Line Search</th><td>Program Controlled</td></tr><tr><th class="ItemName">Stabilization</th><td>Program Controlled</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Advanced</th></tr><tr><th class="ItemName">Inverse Option</th><td>No</td></tr><tr><th class="ItemName">Contact Split (DMP)</th><td>Off</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Output Controls</th></tr><tr><th class="ItemName">Stress</th><td>Yes</td></tr><tr><th class="ItemName">Surface Stress</th><td>No</td></tr><tr><th class="ItemName">Back Stress</th><td>No</td></tr><tr><th class="ItemName">Strain</th><td>Yes</td></tr><tr><th class="ItemName">Contact Data</th><td>Yes</td></tr><tr><th class="ItemName">Nonlinear Data</th><td>No</td></tr><tr><th class="ItemName">Nodal Forces</th><td>No</td></tr><tr><th class="ItemName">Volume and Energy</th><td>Yes</td></tr><tr><th class="ItemName">Euler Angles</th><td>Yes</td></tr><tr><th class="ItemName">General Miscellaneous</th><td>No</td></tr><tr><th class="ItemName">Contact Miscellaneous</th><td>No</td></tr><tr><th class="ItemName">Store Results At</th><td>All Time Points</td></tr><tr><th class="ItemName">Result File Compression</th><td>Program Controlled</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Analysis Data Management</th></tr><tr><th class="ItemName">Solver Files Directory</th><td>C:\Users\India\AppData\Local\Temp\WB_India_9028_2\wbnew_files\dp0\SYS\MECH\</td></tr><tr><th class="ItemName">Future Analysis</th><td>None</td></tr><tr><th class="ItemName">Scratch Solver Files Directory</th><td></td></tr><tr><th class="ItemName">Save MAPDL db</th><td>No</td></tr><tr><th class="ItemName">Contact Summary</th><td>Program Controlled</td></tr><tr><th class="ItemName">Delete Unneeded Files</th><td>Yes</td></tr><tr><th class="ItemName">Nonlinear Solution</th><td>No</td></tr><tr><th class="ItemName">Solver Units</th><td>Active System</td></tr><tr><th class="ItemName">Solver Unit System</th><td>nmm</td></tr></tbody></table><p class="Caption"><a name="26">TABLE 9<br/>Model (A4) &gt; Static Structural (A5) &gt; Loads</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="26" class="ObjectName">Force</a></td><td><a name="33" class="ObjectName">Fixed Support</a></td><td><a name="36" class="ObjectName">Fixed Support 2</a></td></tr><tr><th class="ItemName">State</th><td colspan="3">Fully Defined</td></tr></tbody><tbody><tr><th class="GroupName" colspan="4">Scope</th></tr><tr><th class="ItemName">Scoping Method</th><td colspan="3">Geometry Selection</td></tr><tr><th class="ItemName">Geometry</th><td colspan="3">1 Face</td></tr></tbody><tbody><tr><th class="GroupName" colspan="4">Definition</th></tr><tr><th class="ItemName">Type</th><td>Force</td><td colspan="2">Fixed Support</td></tr><tr><th class="ItemName">Define By</th><td>Vector</td><td colspan="2">&nbsp;</td></tr><tr><th class="ItemName">Applied By</th><td>Surface Effect</td><td colspan="2">&nbsp;</td></tr><tr><th class="ItemName">Magnitude</th><td>5000. N  (ramped)</td><td colspan="2">&nbsp;</td></tr><tr><th class="ItemName">Direction</th><td>Defined</td><td colspan="2">&nbsp;</td></tr><tr><th class="ItemName">Suppressed</th><td colspan="3">No</td></tr></tbody></table><p class="Caption"><a name="26">FIGURE 1<br/>Model (A4) &gt; Static Structural (A5) &gt; Force</a></p><p class="Figure"><img src="Mechanical_Report_Files/Figure0002.png" alt="Mechanical_Report_Files/Figure0002.png" width="600" height="400"/></p><h3><a name="23">Solution (A6)</a></h3><p class="Caption"><a name="23">TABLE 10<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="23" class="ObjectName">Solution (A6)</a></td></tr><tr><th class="ItemName">State</th><td>Solved</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Adaptive Mesh Refinement</th></tr><tr><th class="ItemName">Max Refinement Loops</th><td>1.</td></tr><tr><th class="ItemName">Refinement Depth</th><td>2.</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Information</th></tr><tr><th class="ItemName">Status</th><td>Done</td></tr><tr><th class="ItemName">MAPDL Elapsed Time</th><td>6. s</td></tr><tr><th class="ItemName">MAPDL Memory Used</th><td>130. MB</td></tr><tr><th class="ItemName">MAPDL Result File Size</th><td>5.25 MB</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Post Processing</th></tr><tr><th class="ItemName">Beam Section Results</th><td>No</td></tr><tr><th class="ItemName">On Demand Stress/Strain</th><td>No</td></tr></tbody></table><p class="Caption"><a name="24">TABLE 11<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Solution Information</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="24" class="ObjectName">Solution Information</a></td></tr><tr><th class="ItemName">State</th><td>Solved</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">Solution Information</th></tr><tr><th class="ItemName">Solution Output</th><td>Solver Output</td></tr><tr><th class="ItemName">Newton-Raphson Residuals</th><td>0</td></tr><tr><th class="ItemName">Identify Element Violations</th><td>0</td></tr><tr><th class="ItemName">Update Interval</th><td>2.5 s</td></tr><tr><th class="ItemName">Display Points</th><td>All</td></tr></tbody><tbody><tr><th class="GroupName" colspan="2">FE Connection Visibility</th></tr><tr><th class="ItemName">Activate Visibility</th><td>Yes</td></tr><tr><th class="ItemName">Display</th><td>All FE Connectors</td></tr><tr><th class="ItemName">Draw Connections Attached To</th><td>All Nodes</td></tr><tr><th class="ItemName">Line Color</th><td>Connection Type</td></tr><tr><th class="ItemName">Visible on Results</th><td>No</td></tr><tr><th class="ItemName">Line Thickness</th><td>Single</td></tr><tr><th class="ItemName">Display Type</th><td>Lines</td></tr></tbody></table><p class="Caption"><a name="28">TABLE 12<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Results</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tbody><tr><th class="ItemName">Object Name</th><td><a name="28" class="ObjectName">Total Deformation</a></td><td><a name="29" class="ObjectName">Equivalent Elastic Strain</a></td><td><a name="30" class="ObjectName">Equivalent Stress</a></td><td><a name="41" class="ObjectName">Strain Energy</a></td></tr><tr><th class="ItemName">State</th><td colspan="4">Solved</td></tr></tbody><tbody><tr><th class="GroupName" colspan="5">Scope</th></tr><tr><th class="ItemName">Scoping Method</th><td colspan="4">Geometry Selection</td></tr><tr><th class="ItemName">Geometry</th><td colspan="4">All Bodies</td></tr></tbody><tbody><tr><th class="GroupName" colspan="5">Definition</th></tr><tr><th class="ItemName">Type</th><td>Total Deformation</td><td>Equivalent Elastic Strain</td><td>Equivalent (von-Mises) Stress</td><td>Strain Energy</td></tr><tr><th class="ItemName">By</th><td colspan="4">Time</td></tr><tr><th class="ItemName">Display Time</th><td colspan="4">Last</td></tr><tr><th class="ItemName">Calculate Time History</th><td colspan="4">Yes</td></tr><tr><th class="ItemName">Identifier</th><td colspan="4"></td></tr><tr><th class="ItemName">Suppressed</th><td colspan="4">No</td></tr></tbody><tbody><tr><th class="GroupName" colspan="5">Results</th></tr><tr><th class="ItemName">Minimum</th><td>0. mm</td><td>2.2748e-007 mm/mm</td><td>1.0917e-002 MPa</td><td>2.5676e-007 mJ</td></tr><tr><th class="ItemName">Maximum</th><td>2.6855e-003 mm</td><td>7.5645e-005 mm/mm</td><td>13.236 MPa</td><td>9.8049e-003 mJ</td></tr><tr><th class="ItemName">Average</th><td>1.03e-003 mm</td><td>9.5958e-006 mm/mm</td><td>1.77 MPa</td><td>&nbsp;</td></tr><tr><th class="ItemName">Minimum Occurs On</th><td colspan="4">Solid</td></tr><tr><th class="ItemName">Maximum Occurs On</th><td colspan="4">Solid</td></tr><tr><th class="ItemName">Total</th><td colspan="3">&nbsp;</td><td>4.5379 mJ</td></tr></tbody><tbody><tr><th class="GroupName" colspan="5">Information</th></tr><tr><th class="ItemName">Time</th><td colspan="4">1. s</td></tr><tr><th class="ItemName">Load Step</th><td colspan="4">1</td></tr><tr><th class="ItemName">Substep</th><td colspan="4">1</td></tr><tr><th class="ItemName">Iteration Number</th><td colspan="4">1</td></tr></tbody><tbody><tr><th class="GroupName" colspan="5">Integration Point Results</th></tr><tr><th class="ItemName">Display Option</th><td>&nbsp;</td><td colspan="2">Averaged</td><td>&nbsp;</td></tr><tr><th class="ItemName">Average Across Bodies</th><td>&nbsp;</td><td colspan="2">No</td><td>&nbsp;</td></tr></tbody></table><p class="Caption"><a name="28">FIGURE 2<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Total Deformation</a></p><p class="Figure"><img src="Mechanical_Report_Files/Figure0003.png" alt="Mechanical_Report_Files/Figure0003.png" width="600" height="400"/></p><p class="Caption"><a name="28">TABLE 13<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Total Deformation</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemNameColumn">Time [s]</th><th class="ItemNameColumn">Minimum [mm]</th><th class="ItemNameColumn">Maximum [mm]</th><th class="ItemNameColumn">Average [mm]</th></tr><tr><td>1.</td><td>0.</td><td>2.6855e-003</td><td>1.03e-003</td></tr></table><p class="Caption"><a name="29">FIGURE 3<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Equivalent Elastic Strain</a></p><p class="Figure"><img src="Mechanical_Report_Files/Figure0004.png" alt="Mechanical_Report_Files/Figure0004.png" width="600" height="400"/></p><p class="Caption"><a name="29">TABLE 14<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Equivalent Elastic Strain</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemNameColumn">Time [s]</th><th class="ItemNameColumn">Minimum [mm/mm]</th><th class="ItemNameColumn">Maximum [mm/mm]</th><th class="ItemNameColumn">Average [mm/mm]</th></tr><tr><td>1.</td><td>2.2748e-007</td><td>7.5645e-005</td><td>9.5958e-006</td></tr></table><p class="Caption"><a name="30">FIGURE 4<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Equivalent Stress</a></p><p class="Figure"><img src="Mechanical_Report_Files/Figure0005.png" alt="Mechanical_Report_Files/Figure0005.png" width="600" height="400"/></p><p class="Caption"><a name="30">TABLE 15<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Equivalent Stress</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemNameColumn">Time [s]</th><th class="ItemNameColumn">Minimum [MPa]</th><th class="ItemNameColumn">Maximum [MPa]</th><th class="ItemNameColumn">Average [MPa]</th></tr><tr><td>1.</td><td>1.0917e-002</td><td>13.236</td><td>1.77</td></tr></table><p class="Caption"><a name="41">FIGURE 5<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Strain Energy</a></p><p class="Figure"><img src="Mechanical_Report_Files/Figure0006.png" alt="Mechanical_Report_Files/Figure0006.png" width="600" height="400"/></p><p class="Caption"><a name="41">TABLE 16<br/>Model (A4) &gt; Static Structural (A5) &gt; Solution (A6) &gt; Strain Energy</a></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemNameColumn">Time [s]</th><th class="ItemNameColumn">Minimum [mJ]</th><th class="ItemNameColumn">Maximum [mJ]</th><th class="ItemNameColumn">Total [mJ]</th></tr><tr><td>1.</td><td>2.5676e-007</td><td>9.8049e-003</td><td>4.5379</td></tr></table></div>
+		<div id="Materials">
+			<h2>
+				<a name="Materials">Material Data</a>
+			</h2>
+			<h3><a name="EngineeringData1">Structural Steel</a></h3><p class="Caption">TABLE 17<br/>Structural Steel &gt; Constants<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Density</th><td>7.85e-006 kg mm^-3</td></tr><tr><th class="ItemName">Coefficient of Thermal Expansion</th><td>1.2e-005 C^-1</td></tr><tr><th class="ItemName">Specific Heat</th><td>4.34e+005 mJ kg^-1 C^-1</td></tr><tr><th class="ItemName">Thermal Conductivity</th><td>6.05e-002 W mm^-1 C^-1</td></tr><tr><th class="ItemName">Resistivity</th><td>1.7e-004 ohm mm</td></tr></table><p class="Caption">TABLE 18<br/>Structural Steel &gt; Color<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Red </th><th class="ItemName">Green </th><th class="ItemName">Blue </th></tr><tr><td>132</td><td>139</td><td>179</td></tr></table><p class="Caption">TABLE 19<br/>Structural Steel &gt; Compressive Ultimate Strength<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Compressive Ultimate Strength MPa</th></tr><tr><td>0</td></tr></table><p class="Caption">TABLE 20<br/>Structural Steel &gt; Compressive Yield Strength<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Compressive Yield Strength MPa</th></tr><tr><td>250</td></tr></table><p class="Caption">TABLE 21<br/>Structural Steel &gt; Tensile Yield Strength<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Tensile Yield Strength MPa</th></tr><tr><td>250</td></tr></table><p class="Caption">TABLE 22<br/>Structural Steel &gt; Tensile Ultimate Strength<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Tensile Ultimate Strength MPa</th></tr><tr><td>460</td></tr></table><p class="Caption">TABLE 23<br/>Structural Steel &gt; Isotropic Secant Coefficient of Thermal Expansion<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Zero-Thermal-Strain Reference Temperature C</th></tr><tr><td>22</td></tr></table><p class="Caption">TABLE 24<br/>Structural Steel &gt; S-N Curve<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Alternating Stress MPa</th><th class="ItemName">Cycles </th><th class="ItemName">Mean Stress MPa</th></tr><tr><td>3999</td><td>10</td><td>0</td></tr><tr><td>2827</td><td>20</td><td>0</td></tr><tr><td>1896</td><td>50</td><td>0</td></tr><tr><td>1413</td><td>100</td><td>0</td></tr><tr><td>1069</td><td>200</td><td>0</td></tr><tr><td>441</td><td>2000</td><td>0</td></tr><tr><td>262</td><td>10000</td><td>0</td></tr><tr><td>214</td><td>20000</td><td>0</td></tr><tr><td>138</td><td>1.e+005</td><td>0</td></tr><tr><td>114</td><td>2.e+005</td><td>0</td></tr><tr><td>86.2</td><td>1.e+006</td><td>0</td></tr></table><p class="Caption">TABLE 25<br/>Structural Steel &gt; Strain-Life Parameters<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Strength Coefficient MPa</th><th class="ItemName">Strength Exponent </th><th class="ItemName">Ductility Coefficient </th><th class="ItemName">Ductility Exponent </th><th class="ItemName">Cyclic Strength Coefficient MPa</th><th class="ItemName">Cyclic Strain Hardening Exponent </th></tr><tr><td>920</td><td>-0.106</td><td>0.213</td><td>-0.47</td><td>1000</td><td>0.2</td></tr></table><p class="Caption">TABLE 26<br/>Structural Steel &gt; Isotropic Elasticity<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Young's Modulus MPa</th><th class="ItemName">Poisson's Ratio </th><th class="ItemName">Bulk Modulus MPa</th><th class="ItemName">Shear Modulus MPa</th><th class="ItemName">Temperature C</th></tr><tr><td>2.e+005</td><td>0.3</td><td>1.6667e+005</td><td>76923</td><td></td></tr></table><p class="Caption">TABLE 27<br/>Structural Steel &gt; Isotropic Relative Permeability<br/></p><table align="center" class="Details" border="1" cellpadding="0" cellspacing="0"><tr><th class="ItemName">Relative Permeability </th></tr><tr><td>10000</td></tr></table></div>
+	</body>
+</html>
+------=_NextPart_001_0002_01D77CA2.C6F462D0--
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Figure0001.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Figure0001.png"
+Content-Location: Mechanical_Report_Files/Figure0001.png
+
+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
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Figure0002.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Figure0002.png"
+Content-Location: Mechanical_Report_Files/Figure0002.png
+
+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
+BBYAQGL/D8amdn+BP7EeAAAAAElFTkSuQmCC
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Figure0003.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Figure0003.png"
+Content-Location: Mechanical_Report_Files/Figure0003.png
+
+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
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Figure0004.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Figure0004.png"
+Content-Location: Mechanical_Report_Files/Figure0004.png
+
+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
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Figure0005.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Figure0005.png"
+Content-Location: Mechanical_Report_Files/Figure0005.png
+
+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
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Figure0006.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Figure0006.png"
+Content-Location: Mechanical_Report_Files/Figure0006.png
+
+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
+IAAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80
+Content-Type: image/png;
+	name="Logo.png"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline;
+	filename="Logo.png"
+Content-Location: Mechanical_Report_Files/Logo.png
+
+iVBORw0KGgoAAAANSUhEUgAAAOsAAABQCAIAAAB3ZRU0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOwgAADsIBFShKgAAAABl0RVh0U29mdHdhcmUAUGFpbnQuTkVUIHYzLjUuODc7gF0AABYfSURB
+VHhe7Z13WBXH+sf9I7GgIsWClaJYsSvYQFFQI4LYUCzYYmK4JjHm5hr79RdjTcy1JBFr7EqxogiI
+DcFGVwFRig2kg6gIqPf3xcVlObs7Z3YhnMNz9z578yScmXfemfnse9555505tep9+onyKCOgzSOw
+cMGCvLwXL14UvHz56vXr12/evCkqKi4pKXn37t379+9rabPqim7KCGAEvpk/Pz09MzMzOycnNz//
+xQeOCz9A/BYQKwQrX0HaPgLu8+YlJz96/PhpamoaUAbHBQUFDMRv375VCNb2+VPM8Nw5c+7di4u/
+/yAxKQUcP3+eAYhhieFOFBeXKAQrBGv7CMx0c7t1OzwyKubuvbgHD5MAMSwx3An4xDDDCsHaPn+K
+DZ7qOuXyleDQ6zfDI6IAcWJi8rNnaR/NcJFCsEKwto+AywQXv/OBFy9dvX7jFiwx3AmYYSzsEJ2A
+I6EQrO3zp9jg8WPHnTjpe84v4NLl4Fu3wmCGk5JS4EggxFZYqBCshMO1fgScncYc8zx+8tTZwAuX
+4EtEx9x9mJiclpaem5uHiIRigxUbrO0j4OTodOiwp8/x0+f9L1wLuR4VfSfhQWJq6nOFYG2fOcV/
+YEbAcbTjgYNHvbxPwpG4GhwKVzgh4eGHxZxig7X+C1SBuJRgh9H7Dxzx9DrxgeCQiMjo+2UE5ype
+hGKGa8AIKATXgElSbC1hBBSCFYJr9ggoBNfs+VPMs/YS3L6tWY+uFuQHZSin0LhVS7XSmALmpiZq
+ZdavU7u7RRcxgXoNGhAktGysM9vZbOe/+17aYxt2bPiNQ3aevw5YPKdz386G9Wt/yq04pE+zCK/h
+xkb1devVNmhQh/5ppFOb3AV9Cml69SsIMW/d8Jsp7fev6Re8fxjUDjkwDP+Ov3QyaaTS1tzxba/8
+NZT9Y5tm9d0cTaeOMmluqKN2YGUU0FKCDXQbZmdl/Vfd/7Kzs/UbknBhR+SPbdvUCSv7PDMzA62T
+h7KJgT5yqMUEWvXpLVjdtEWDXassX4dN+O/dSYLPfd9Rq9y7Wpjp6Xz6iUHDOv4eg1HMumfTTT/0
+LIqcSP8cXt+frP/Dcw5qpQFTRkivDgantliXRLsI6vzujsutI/bfTe9g0rx0IsBrwtlRKNykUV38
+57hhrff8ZOlg3WLUwBZ7f7Ic3r+5DEbJVbSU4GmurpTATZviSjMo9ASj3XlfzK1ygjGX2SFjWQgw
+8bGnPvPeNBC0BewYknZ5DPvR+zuTngY55V4fx/zFZXgb0+YNxtq2Av3FURPF6MdHW37sNdG+NYhv
+10rNG4iXZGD3Jp+PaxvuOVxFIBQ796fNnLFmABcv0kK3DoUR5a8cWrl91P7YxgF4YGjzPioJIaA2
+JcDx1cf3s7NpIyP9eic2D5po3+b0Vmt0c6aTKf5FxbTTzF2NJNj/vB8lwef9/GhGQRLB0VFROhW/
+0FWakGqDXUcal0SV2zAY1z6dDbkyG9T5dHDvpl6bBr6LUTV1305tz5a0tzJiyVYh79A6NXZXcJSa
+G9TjfifgHRszpBVbcpW7Bfe9gjU1r/huwF0ZO7QVUOa/V8MsjWB6v5vWYbxd60Pr+/+xrM+8ie3+
+7W4xoFtjmvmiL6ONNritiXFxcTElwfg2b2vcRm2HJRGMpu2HlntyfOGSCLZoq1dwazw7x3t/sgKv
+YgoP72f05IIjF4j1C7pzC9v2afbqtoAf4vPbQLWDwC8AD/vFzTLdMoOd4YuzZYAy93VaNLuTmHyd
+2p/MGmP2gtNH6D/dwcTOymjJ551BMN6E8x6D0daG77r36mggQ09CFW0keOniHynxZYotXbxY7aBI
+Jfi4jw9BpiSCT221ZokEnXBwydq2bdkQDgZbBQsmlfLTR5vA01Axey9vj8eaT+04qBSY5mDCyIGr
+YNu3Gftpw7qfxp8ZxTZxaa8tMCUL79+1ceY1Z7bKv2Z1goX2/d0aRnqCXWv888sJ7eBU1Bd/e6Uq
+z5TXOoJ16tSOjY2VRHBcbCz5Sx/9lEowvgQIgQ56gtu30X3LcQw2ft+DZp7MW+uynnHgziH8KlsX
+9+Z/cfNZJ7fVVK/u44/2HlEFbmEYYK58mFgatfH98CaizFP/z6JeqNKjvf7Bdf1+nN0Jxnj/GqsO
+bXRp5Egqo3UE2wwcIAlfpjBqkbstlWDI3Lh+vZhMeoK/dm3PRWHmGFPK6QFDjKGFPeZXwXoIsQIV
+iFEepo5SPoptW1L2GpzcMkjFxG5f3ocrnOtdkOUjLMhU9PylbEYgGeBicanWitNrzi2pdQTv2L5d
+kODcnByCc7zDw6PKCc7MyDBoJGwz6AnesbIvFwVEgunnCa4t6mLpJlilm7k+171mWnkS5NTcsB5N
+E9Y9m7z9ECDLCHY2bqbqfoQctOOqbWVRYd1JkI8gyN2TI1EXYWMaNSpfRrsILg0DZ2cLErxv796L
+QUFi5jknJ4ccxCXYYNwqICb2y7mfCw4xPcGIpHJR2LK49LuV8undyQCxLVhWQxHXeb6rOd+X2Pez
+lVr54CzKZwRTd4aTwNdC0vnRXMkII6iVyRZgfOuHfg70VSpTUrsInj5lihhM453HLFzwLcHBQF3C
+QBAIDvD3F7PuUZGRgh42PcGnt1UgOP2qcxO90lA/5XN1X2mgqouZ6r4XUx17eH7bS3c9uA+Id7ZV
+40vAK2Wq+P5uI6hJckAFgm8ctqf3ARBzgBOP74cqX7QJqqpdBPufPy/IaH5+vr5uw/ZmZgR7CRDl
+EfzX3j0+3t5i74adrcBCip5gxFBVCPNY0ZcSXxTDXheq2/czEqsC/5K7UVLmS1xwRKBXrEpnk0bM
+vgP8E8Q9BIvdPGKvorbKUo/cBWy+4NsD++f0PZVdUosIbmdiImYLPY8eZXoYHhYmhhoCw+3EUxoI
+NhgEDx82VEws4OYPLj3BP8zsyLeRWO5QTlhHY11kUPQn7gJgr4vvS/y1WtiXwDYbtgCZ8l+5iPoG
+e1dbqcjELvT4Ya0p1R7atxnUNjGi2vCnlClWTIsIXrZksRhGU10nMx1YuXwZwZFYtmSJWD/JBKPW
+3Tt3BCXjpTI3U/UU6Qnubq7Pj93iL9gBxrdtJSePqY7vd2bNp+JLcHfX2IYQDGGKBe0mhXinfGbM
+fyuwpczdIKwS5SsvRFsIRrZXXFycIEOvXr1qali2kdO7R3cCwfFxcWKBYbUEz3f/SkzyhnVrVQaa
+nmBUBCt8GvCX64fsurXTq/wUQkLrpvW5mRVMc4j1GlX0JVo10YEjjo/gpPJzyriaIFr3OLDC1iDb
+BbwtaK5K1K4SIdpC8OBBA8UAOnP6NLerCQkJBIgHDxokOC5qCW6sr5eXlycoOSM9XSXQIYlgyy6G
+bJxfBWX4o8u/7KI2GZJmppFAwzf2cAa4dRGmYBRYOL2DWpkIKfAFMtUzrjoj9Yd+bae2rcoU0BaC
+d3p4iHH5+exZ3B5u+vUXAsE7d+yQRzBqbd28WUzyF3PmcMVKIhgV3SeZi9EAILB/6zSkZWVmkamL
+PTm+L+E0uEzyiAHNGR1CD9pRRgnYLQ/B75Br+4f161rFaToyBkErCMbGAQK6gvQUFRW1Mirfr0cP
+h1hbEwjOzc0V3IZQa4MhuWvnTmKxjoiICK5/IpVgCIfZ424v81E7s80aGYkyppCtAp/hEe+rv9SX
+0K+HlHak7aLRwvAJcM0pWwHoiJwI4sv8EXsi2LKpnpiDmM5aQbDb1KliUAZduKCiOjzmtLQ0AsRu
+06bye0tDMGohJCcmediQwaxYGQSj7rihrbKulacI88l4HT4BaVyVcSqQ0MjPz0Q23NpvuzHNLfui
+CyW+TDG4Cnj3xLwgRiaS2r6Y0FZTToVWEEzg5ut/uPNHfNeOHQSCAwMCZBM8znmMmGRvL89KEozq
+iL+e/cOGYNXw0Z0TI5HnJYkzbuE/l1VIaYBAOA8lH1LjcWYJSWcyJGNXOdK7bA9PTHksWNu3rvrE
+HbXaap5gBHHFTuzgDm4zodxfJwcHAsGQxo9/UdrgBnXrJCUlifkz7BE6eTaYtWpYJCGBgcAxbN73
+bh3VTp5ggca6dRPOOvCFI6CLNaU8maiFnQ8kTObfKDs5Iqh8TuhY+pixbE1UKmqe4OVLl4rhGBoS
+IthPvQb180XiBowoyFSpSEkwai1etEhMn3Vr1zBiK0MwIwGcrVvQHV4pgWPsbBFy4QkEIMuRf6wN
+2eWVhwbnnbBexH6bmNrwYRbNEs2Fr7wCfAkaJhjLIwRxxYhZ9MM/xfrseewoKTAcHw93mVuXnuCW
+Rs0QgRYUnv4xrFZ5ghndurbVQ/ovAeKDa/upHGCmhAAJDypiJ480pqyrthjeELg6Ymq/vztp6Vxp
+3rbaFgkFNEwwIQyMn1Lq3KFC2jW3G4QcIAY+W5sKOSv0BKMV5MGJh/ZmV4kNZvuCBRBSLvm5DSwf
+WNvJmGBv3i5dFRIMfbChuPIrC7EVHoz05BFV9sKQu69hgnftFF2TRUZEEFRvaqCPG7oJZnj3rp3y
+bDBq9bfsi/dHUHh4eBi+N6rKBrMamrVoELRLeOsO/oCMsOvfTTCjOTLfY0+XH4jiWmVEXapn606T
+BGOjC+FbMQpXrVxBfvnI55kh2VCvPLwqyQaj3euhoWKK2Q62qXKC0SJc3vXfdRfc+Di/vTyQR2mP
+q4dgKGOoWwd3Bgh6FLjmglLbyhTTJMEI3IpRAhPYs1tXcsfwQ2IEG4yPZrpNZyVIJXjGtGliwr2O
+Hfs7CGZUXTC1g1AmkIvUQFW1EQyd4al7VDyKwsaJddXdHlQZdpm6miQYgVsxSgg5OmyfTVq1JKQL
+Q/KFwEDZBCPcIbZvgm1C3Del9s4epNHgCggZ8deNC3vwTRohE1IQAtkE41WRcaUDdu8E49w2vZpW
+nlEt9YMRskW4V4zgDevW0fQc4TZyYJg9byzVBqP1NatXiwnftnWLWoI/G9gCIE4aof4uC5WeIi8s
+peIRCcjZ/OHoL/0jm2AEfbH7LSNpDrn2/IUdTtjT6yyvpMZs8IplpEzfAVbqD3uhw4sX/YvsSKxc
+vpwZFxkEI+Me5lZQPs6MEMw/c28ajBnIwzEhGRODULGKGd69ylKSHNkE44ISNI2NPUnNMYX5Zvif
+M2Tuy9C3rhmCsZy/Hx8vBl9KcrJKNFesPxadOpIJvn//PiNKBsGo5ePtRZYv+ClDMFZm2LCAUzvM
+skJmEs3c4KZHFYL/XC4NKdkE44YHNP3y1ngZJyz4L56ks0k0I8MvoxmCbW1I+WXIcqTvjNjZCpat
+oYNLA8PyCCacPiKQzd5dyUSakM0oNetlzJCWKgR/L9GYySYY56KZ+wVxTIh+FpiSK+Z1UVEbV1ZK
+FSK1vGYIRrCWQIDg4Uqxjq39+Weymdyze7dsgvFdERMTI9UMswSzG2OSTqtDW7fRqkffrCyk5frI
+Jhit4wpKgIg4NFaiknjCjURcgnGnIK4FkiRBRmENEIz83bw80TBwWmpqw3oSuj3A0pJMWF5ubmO9
+RvJsMAZ0vru7bII3/9iLmVEkxNBn5aLR3z/epsNUxxau1KmtDMEXPx6LwjXDlPenMOoxdwOwz7GP
+1/ZIVV5SeQ0QPGO6aKgVrOzaWWEvTW1nYCYfPXpEhmyWm5tsghH6xXVBkiBmbTCCu+x0PjjngLQY
+td1BAdgtZNxyUZg6SvIOLT8vgvLuMygA/4FtHTQjO55Gbdw3zE1NRj4n/V1VNPLFymiAYIRpCUA4
+OoyS2p/ft24lE4bLfmQTDGUIp48IKzlUdLSp4M4i6bErxdHOPf9X4YoJnN2Q6kaj6TjeZu/qr9Xs
+ELHDzt59xnB8ee9QxLbJk4KsfLj73LdO5dJYqXNKX766CTY3JYWBceUUthLotWdKjrS3IxP8tqTE
+98wZsTK4L4LcYrcunQmha75Y1gZ3MW2ksrKBO4FLocVOYSASrHI0LcJrBM4ISR0Qm55N+Sc14n1H
+Ud6fjhi2ito4qoQ/imXJtTDU8fuzwtVBx/8zSMZWjtRuMuWrm2ByGPjQwYMyuqGrUy9L3Y9uiEV2
+wZ9agqFSgL/wZUJkG4wELuSV8zfYcJptzTfd7CyNcMIMVOEnXhDDQkr7g4qZ6UiHIFy9wx8oEIYQ
+mLuLefqV8t804LaOa4BxK7Var6BPJwPBPIeY4yNhnvHzBc3060FtpDgj5ein+V2ZE/zMg+jh9hV9
+quoqDBoYqpVg+Kzks/IuE8bTKM0vc2DfPkmuKrcwDcGE00cEGww94f4iXxa8DujeBCfUcc8p99Z/
+zDcQ52ej46JshC8oTxSjFew5J/o5IB2McCKahQw7Z/idDkT6xOIb+BEXqIRi/5hsPqhHk2+ntMfP
+LnF/RQHJk28iJ/IPrkb7jGCPRsubRxm1qpVg/O6Q6yQXwkP5w0T8fnbp2IEsmfDpACv1210Ij0ye
+OIGyCaPG5Yd5cPs+fm2FqzC8ghmOpvhpCdzuWMyx0EAZFOK+6EnD20g97AkT7vqZsdSH4N0C8QNr
+K9wdj/xP3IWMNxDno5hrW5kHuza4bhUbLiP6N6d/5WSQqkUruSrUXvtFwZ4RYqJITcTvtIE/JBWI
+XbGqkT7iNSPo01SvHq78wQXGiK5Q+tZ/Xy+q1Qb/fd1QJP/PjoBCsISEr/9ZSrS54wrBCsE1ewQU
+gmv2/Gmzdawe3RSCFYJr9ggoBNfs+aseO6fNrSgEKwTX7BFQCK7Z86fN1rF6dFMIVgiu2SOgEFyz
+56967Jw2t6IQrBBcs0dAIbhmz582W8fq0U0hWCG4Zo+Ao4Pj/gNHPL1OnPMLuBocEhEZfT/h4bNn
+aTk5ua9fF9aqntdIaUUZAdkj4Dja8eChY17eJ8/5BV4NDo2MikkoIzhPIbhmGyfZTNSsimMcnQ4f
+8Tp+4ox/QFBI6I3o6DsPHiSmpT3Pzf1AcHh4eGjI9aCgi76+57y8fPbvP+jhsWvr1j82bdqyceNv
+6zf8un79L8qjjIBGRmDDhl83/vKbx47dMMCnz/gFXbxy4+btmDv3EpNSnj9Pz8vLLyU4P/9Fenpm
+cvKj2Nj422ER8DNA+qnT57x9Th3zPA72Dx32VB5lBDQyAsAPEALF02fOAUu4EGFhEbFx95NTHmdk
+ZAHdwsI3tQoKCjIzs588eQbvOCr6Dhi/fOUaSvue9QfHJ076njh5RnmUEdDQCPgCQqDoH3DxytVr
+N2/ehgsBUIFrVlZ2QcHLN2+Kar18+QprutTU50lJKaAbbjIgDr4WeulycOCFywGBF5VHGQENjsCF
+oMtAEUDevBUGOIFoUvIj4JqTk4ef8ykqKq4FT+LFC5jhrKdPU+FexMUnxMTcjYiIgkeBOqD5+g3l
+UUZAMyMA/AAhUEQEDe4v4ASiT5+lAldAW1hYWEow7PCrV6/hFOOviLE9evQkMTEZhhqwwzO+ey9O
+eZQR0OAIAEKACyDBLuBMTU0DqMAV0ALdkpK3tYqLS+AOw5fAX7OyctLTM2Ci4WegdErKY6zwlEcZ
+AQ2OACAEigASWAJOIApQgSugBbq4aakW/g9TjP8G1FjV4ePs7Fys7bDWQ4wCdZRHGQGNjkAmUASQ
+WK0BTiAKUIEroAW6uGf//wGdjDJVDE3mZQAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0001_01D77CA2.C6E76A80--
